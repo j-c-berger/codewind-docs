@@ -23,9 +23,9 @@ For more detail on any of the commands, see the [commands overview](mdt-vsc-comm
 3. Make the new project your workspace folder. This project is the only project that you need to work on for this tutorial.
     - Right-click the project and select [Open Folder as Workspace](mdt-vsc-commands-project.html#open-folder-as-workspace). VS Code restarts with the selected project folder as the workspace folder.
 4. Open the **Project Overview** page to view project information.
-    - Right-click the project and select [Show Project Overview](mdt-vsc-commands-project.html#show-project-overview).
+    - Right-click the project and select [Open Project Overview](mdt-vsc-commands-project.html#show-project-overview).
 5. To view the project standard output and error as you develop it, open the application logs.
-    - Right-click the project and select [Show Application Log](mdt-vsc-commands-project.html#logs). The log appears in the **Output** view.
+    - Right-click the project and select [Show all logs](mdt-vsc-commands-project.html#logs). The log appears in the **Output** view.
     - Node.js projects do not have build logs, but if you work on some other types of projects, you can also view the build logs.
 6. Open a file to edit. For example, modify the `health` endpoint of the default Node.js project.
     - Open a Javascript file, such as `nodeproject/server/routers/health.js`.
