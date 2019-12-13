@@ -65,6 +65,11 @@
           url: supportingmultipleusers.html
         - title: 'Installing Kibana and filtering logs in IBM Cloud Private'
           url: viewkibanalogs.html
+          
+      - title: `Specifying Image Registries`
+        children:
+          - title: 'Specifying Image Registries` 
+            url: image-registry-credentials.md 
 
 - title: 'Deploying Codewind remotely'
   children:
